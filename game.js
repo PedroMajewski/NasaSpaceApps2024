@@ -1,5 +1,6 @@
 let scene, camera, renderer, spacecraft, controls, raycaster, mouse;
 let planets = [];
+//Ola
 const planetasSistemaSolar = [
     {
         id: 0,
