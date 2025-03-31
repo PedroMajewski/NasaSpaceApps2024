@@ -4,7 +4,7 @@
 <p>O Projeto Principal realizado no Hackathon Nasa Space Apps Challange 2024, tem como problemática principal a criação de um planetário online(Web Oerry) interativo sobre asteróides próximos a terra, com objetivo de educar
 e demonstrar de modo interativo esses objetos</p>
 <h3>Vídeo:</h3>
-<video href="https://www.youtube.com/watch?v=tBG7mnQ-gtI&feature=youtu.be"></video>
+[[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)](https://www.youtube.com/watch?v=tBG7mnQ-gtI)
 <h3>Objetivo Principal(Em Inglês)</h3>
 <a href="https://www.spaceappschallenge.org/nasa-space-apps-2024/challenges/create-an-orrery-web-app-that-displays-near-earth-objects/">Create an Orrery Web App that Displays Near-Earth Objects</a>
 <h4>Integrantes:</h4>
@@ -16,7 +16,7 @@ e demonstrar de modo interativo esses objetos</p>
   <li>Vítor Nagaya</li>
 </ol>
 <hr/>
-<h4>Solução:</h4>
+<h3>Solução:</h3>
 <p>Foi criado um Minigame, interativo(2D) web, na qual o integrante deveria atravessando os planetas em nosso sistema solar, atrás de pistas e informações sobre um potencial asteróide que iria se colidir com a terra
 (Asteróide de características reais) assim, o usuário iria conseguir fazer aprender mais sobre o asteróide através de uma <i>gameficação</i></p>
 <h4>Imagens do Projeto:</h4>
