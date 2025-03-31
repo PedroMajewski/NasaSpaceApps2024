@@ -7,7 +7,7 @@ e demonstrar de modo interativo esses objetos</p>
 <h4>Integrantes:</h4>
 <ol>
   <li>Pedro Henrique Majewski</li>
-  <li>Breno Moreno Sanches/li>
+  <li>Breno Moreno Sanches </li>
   <li>Danilli Kauany</li>
   <li>Matheus Manoel</li>
   <li>Vítor Nagaya</li>
