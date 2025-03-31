@@ -27,4 +27,5 @@ e demonstrar de modo interativo esses objetos</p>
 <hr/>
 <h3>Links e Informações do Projeto:</h3>
 <a href="https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/ctrlz-voltar-para-terra/?tab=project">Link do Projeto (Site NASA)</a>
-<a href="[https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/ctrlz-voltar-para-terra/?tab=project](https://www.figma.com/proto/uqYwuuvyfUqu83JfcTEQUL/Nasa-Space-Apps---Challenge?node-id=1-15&starting-point-node-id=1%3A15)">Link do Deploy(FIGMA)</a>
+
+<a href="https://www.figma.com/proto/uqYwuuvyfUqu83JfcTEQUL/Nasa-Space-Apps---Challenge?node-id=1-15&starting-point-node-id=1%3A15">Link do Deploy(FIGMA)</a>
