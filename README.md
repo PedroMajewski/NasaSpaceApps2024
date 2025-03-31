@@ -1,11 +1,11 @@
-<h2>NASA SPACE APPS 2024</h2>
+![image](https://github.com/user-attachments/assets/cf59b96d-ad73-4d9b-ac73-1ca7623e03a5)<h2>NASA SPACE APPS 2024</h2>
 <hr/>
 <h3>Descrição do Projeto:</h3>
 <p>O Projeto Principal realizado no Hackathon Nasa Space Apps Challange 2024, tem como problemática principal a criação de um planetário online(Web Oerry) interativo sobre asteróides próximos a terra, com objetivo de educar
 e demonstrar de modo interativo esses objetos</p>
 <h3>Vídeo:</h3>
 
-[![Watch the video](https://www.youtube.com/watch?v=tBG7mnQ-gtI)]
+[<img src="![image](https://github.com/user-attachments/assets/bb38cafb-1835-4a74-8a26-ebf89beb6ca8)" width="50%">]("https://youtu.be/tBG7mnQ-gtI")
 
 <h3>Objetivo Principal(Em Inglês)</h3>
 <a href="https://www.spaceappschallenge.org/nasa-space-apps-2024/challenges/create-an-orrery-web-app-that-displays-near-earth-objects/">Create an Orrery Web App that Displays Near-Earth Objects</a>
