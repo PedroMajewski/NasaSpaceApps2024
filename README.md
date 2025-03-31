@@ -5,7 +5,7 @@
 e demonstrar de modo interativo esses objetos</p>
 <h3>Vídeo:</h3>
 
-[[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)](https://www.youtube.com/watch?v=tBG7mnQ-gtI)
+[![Watch the video](https://www.youtube.com/watch?v=tBG7mnQ-gtI)]
 
 <h3>Objetivo Principal(Em Inglês)</h3>
 <a href="https://www.spaceappschallenge.org/nasa-space-apps-2024/challenges/create-an-orrery-web-app-that-displays-near-earth-objects/">Create an Orrery Web App that Displays Near-Earth Objects</a>
