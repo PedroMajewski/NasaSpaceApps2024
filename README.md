@@ -8,7 +8,7 @@ e demonstrar de modo interativo esses objetos</p>
 <ol>
   <li>Pedro Henrique Majewski</li>
   <li>Breno Moreno Sanches </li>
-  <li>Danilli Kauany</li>
+  <li>Danielli Kauany</li>
   <li>Matheus Manoel</li>
   <li>Vítor Nagaya</li>
 </ol>
@@ -24,8 +24,16 @@ e demonstrar de modo interativo esses objetos</p>
 
 ![image](https://github.com/user-attachments/assets/43e232ed-1606-4e52-b698-d0a1815b81ef)
 
+## Tecnologias Utilizadas
+
+- **HTML5**: Estrutura do projeto.
+- **SASS**: Estilização da interface.
+- **JavaScript**: Lógica da aplicação e interação com a API.
+- **FIGMA**: Conceituação da aplicação e Prototipação.
+
 <hr/>
 <h3>Links e Informações do Projeto:</h3>
 <a href="https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/ctrlz-voltar-para-terra/?tab=project">Link do Projeto (Site NASA)</a>
 
 <a href="https://www.figma.com/proto/uqYwuuvyfUqu83JfcTEQUL/Nasa-Space-Apps---Challenge?node-id=1-15&starting-point-node-id=1%3A15">Link do Deploy(FIGMA)</a>
+
