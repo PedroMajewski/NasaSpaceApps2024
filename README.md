@@ -1,5 +1,4 @@
 <h2>NASA SPACE APPS 2024</h2>
-<hr/>
 <h3>Descrição do Projeto:</h3>
 <p>O Projeto Principal realizado no Hackathon Nasa Space Apps Challange 2024, tem como problemática principal a criação de um planetário online(Web Oerry) interativo sobre asteróides próximos a terra, com objetivo de educar
 e demonstrar de modo interativo esses objetos</p>
